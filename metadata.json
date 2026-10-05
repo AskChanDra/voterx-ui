@@ -1,0 +1,6 @@
+{
+  "name": "JanSamankhya - Demographic & Electoral Analytics",
+  "description": "Executive demographic analytics dashboard visualizing caste distribution, age segmentation, and voter roll statistics across Nepal local areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
